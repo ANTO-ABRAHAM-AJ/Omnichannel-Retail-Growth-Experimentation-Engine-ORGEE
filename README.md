@@ -413,11 +413,14 @@ The project uses the **Olist Brazilian E-Commerce Public Dataset** as its real-d
 - One fully executed A/B experiment (`exp_001`)
 - Cross-device identity resolution via login-event stitching
 
-> **Note on large data files:** two generated files exceed GitHub's 100MB per-file limit and are hosted externally rather than committed to this repository:
+> **Note on large data files:** five generated/raw files were excluded from this repository, either because they exceed GitHub's 100MB hard limit or its 50MB recommended limit, and are hosted externally instead:
 > - [`events.csv`](https://drive.google.com/file/d/11hVTD_9GRkK-DlvMsBFr45i0A-7pvh8I/view?usp=drive_link) (~362MB)
 > - [`campaign_exposures.csv`](https://drive.google.com/file/d/1BkWYIp0p2nzSJ43dNpke1v3w3qTXUdUv/view?usp=drive_link) (~108MB)
+> - [`inventory_observations.csv`](https://drive.google.com/file/d/1HtT-xueyAtUMmAS3pPgEw_R8w4EPv4yr/view?usp=drive_link) (~89MB)
+> - [`olist_geolocation_dataset.csv`](https://drive.google.com/file/d/1tj4grRnNVFQX57K0eE_0NWPXS2ml_zqD/view?usp=drive_link) (~58MB, raw)
+> - [`sessions.csv`](https://drive.google.com/file/d/1jDxmWkbzxn0y6FPJURXuVxLQpzm5D3wh/view?usp=drive_link) (~52MB)
 >
-> Both are fully reproducible by running the documented Phase 2 Python pipeline (`python/generators/`) against the same seed data — the generation logic, not the output file, is what's meant to be reviewed here.
+> All five are fully reproducible by running the documented Phase 2 Python pipeline (`python/generators/`) and public-data cleaning scripts (`python/phase_02_public_data_cleaning.py`) against the same seed data — the generation logic, not the output file, is what's meant to be reviewed here.
 
 ### Primary Business Outcome Field
 
