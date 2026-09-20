@@ -1,3 +1,5 @@
- data/enterprise/events/events.csv 
- data/enterprise/marketing/campaign_exposures.csv
- .vs/
+data/enterprise/events/
+data/enterprise/marketing/
+data/enterprise/inventory/
+data/enterprise/sessions/
+data/raw/Public/
