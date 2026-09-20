@@ -1,0 +1,51 @@
+campaign_id,campaign_name,channel,campaign_type,objective,start_date,end_date
+camp_0001,Product Discovery Campaign 01,email,engagement_campaign,engagement,2017-12-24 21:15:19,2018-01-16 21:15:19
+camp_0002,Customer Appreciation Campaign 02,push,retention_campaign,retention,2017-04-03 21:15:19,2017-04-15 21:15:19
+camp_0003,Customer Return Campaign 03,push,retention_campaign,retention,2017-06-22 21:15:19,2017-07-13 21:15:19
+camp_0004,Deal Campaign 04,social,promotion_campaign,promotion,2018-06-03 21:15:19,2018-06-13 21:15:19
+camp_0005,Special Offer Campaign 05,push,promotion_campaign,promotion,2017-03-13 21:15:19,2017-04-04 21:15:19
+camp_0006,Seasonal Campaign 06,email,promotion_campaign,promotion,2018-09-06 21:15:19,2018-09-20 21:15:19
+camp_0007,Shop Now Campaign 07,search,conversion_campaign,conversion,2017-01-24 21:15:19,2017-02-07 21:15:19
+camp_0008,Discover Campaign 08,search,acquisition_campaign,acquisition,2018-03-30 21:15:19,2018-04-16 21:15:19
+camp_0009,Promotion Campaign 09,search,promotion_campaign,promotion,2018-03-24 21:15:19,2018-04-10 21:15:19
+camp_0010,Discover Campaign 10,search,acquisition_campaign,acquisition,2016-12-31 21:15:19,2017-01-23 21:15:19
+camp_0011,Engage Campaign 11,email,engagement_campaign,engagement,2018-06-13 21:15:19,2018-06-29 21:15:19
+camp_0012,Customer Appreciation Campaign 12,display,retention_campaign,retention,2017-03-17 21:15:19,2017-04-12 21:15:19
+camp_0013,Shop & Explore Campaign 13,email,engagement_campaign,engagement,2017-10-27 21:15:19,2017-11-20 21:15:19
+camp_0014,Seasonal Campaign 14,social,promotion_campaign,promotion,2018-07-13 21:15:19,2018-07-24 21:15:19
+camp_0015,Purchase Campaign 15,search,conversion_campaign,conversion,2018-04-28 21:15:19,2018-05-22 21:15:19
+camp_0016,Shop Now Campaign 16,email,conversion_campaign,conversion,2018-07-21 21:15:19,2018-08-12 21:15:19
+camp_0017,Discover More Campaign 17,push,engagement_campaign,engagement,2018-02-01 21:15:19,2018-02-20 21:15:19
+camp_0018,Special Offer Campaign 18,display,promotion_campaign,promotion,2018-10-07 21:15:19,2018-10-17 17:30:18
+camp_0019,First Purchase Campaign 19,email,acquisition_campaign,acquisition,2018-01-24 21:15:19,2018-02-07 21:15:19
+camp_0020,First Purchase Campaign 20,search,acquisition_campaign,acquisition,2017-12-14 21:15:19,2017-12-24 21:15:19
+camp_0021,New Shopper Campaign 21,email,acquisition_campaign,acquisition,2017-07-21 21:15:19,2017-07-28 21:15:19
+camp_0022,Explore Campaign 22,email,engagement_campaign,engagement,2017-05-15 21:15:19,2017-06-09 21:15:19
+camp_0023,Come Back Campaign 23,display,retention_campaign,retention,2017-10-06 21:15:19,2017-10-20 21:15:19
+camp_0024,Product Discovery Campaign 24,email,engagement_campaign,engagement,2017-06-10 21:15:19,2017-06-17 21:15:19
+camp_0025,Shop & Explore Campaign 25,push,engagement_campaign,engagement,2017-10-12 21:15:19,2017-11-06 21:15:19
+camp_0026,New Shopper Campaign 26,push,acquisition_campaign,acquisition,2018-09-01 21:15:19,2018-09-30 21:15:19
+camp_0027,New Customer Campaign 27,email,acquisition_campaign,acquisition,2017-01-11 21:15:19,2017-01-26 21:15:19
+camp_0028,Checkout Campaign 28,email,conversion_campaign,conversion,2016-09-05 21:15:19,2016-09-19 21:15:19
+camp_0029,Savings Campaign 29,social,promotion_campaign,promotion,2018-03-11 21:15:19,2018-03-29 21:15:19
+camp_0030,Explore Campaign 30,email,engagement_campaign,engagement,2016-10-21 21:15:19,2016-11-08 21:15:19
+camp_0031,Reactivation Campaign 31,search,retention_campaign,retention,2018-04-08 21:15:19,2018-04-16 21:15:19
+camp_0032,New Customer Campaign 32,push,acquisition_campaign,acquisition,2018-06-05 21:15:19,2018-06-27 21:15:19
+camp_0033,Shop & Explore Campaign 33,push,engagement_campaign,engagement,2016-09-05 21:15:19,2016-09-21 21:15:19
+camp_0034,Explore Campaign 34,push,engagement_campaign,engagement,2017-07-27 21:15:19,2017-08-15 21:15:19
+camp_0035,Welcome Campaign 35,email,acquisition_campaign,acquisition,2017-06-27 21:15:19,2017-07-13 21:15:19
+camp_0036,Special Offer Campaign 36,display,promotion_campaign,promotion,2017-03-05 21:15:19,2017-03-25 21:15:19
+camp_0037,Shop & Explore Campaign 37,search,engagement_campaign,engagement,2017-10-07 21:15:19,2017-11-04 21:15:19
+camp_0038,Customer Appreciation Campaign 38,email,retention_campaign,retention,2018-01-24 21:15:19,2018-02-22 21:15:19
+camp_0039,Checkout Campaign 39,push,conversion_campaign,conversion,2017-03-30 21:15:19,2017-04-14 21:15:19
+camp_0040,Product Discovery Campaign 40,email,engagement_campaign,engagement,2017-03-25 21:15:19,2017-04-05 21:15:19
+camp_0041,Shop Now Campaign 41,search,conversion_campaign,conversion,2017-06-15 21:15:19,2017-07-05 21:15:19
+camp_0042,Product Discovery Campaign 42,social,engagement_campaign,engagement,2018-09-12 21:15:19,2018-10-04 21:15:19
+camp_0043,Customer Return Campaign 43,social,retention_campaign,retention,2018-05-20 21:15:19,2018-06-17 21:15:19
+camp_0044,First Purchase Campaign 44,push,acquisition_campaign,acquisition,2017-08-16 21:15:19,2017-09-07 21:15:19
+camp_0045,Engage Campaign 45,social,engagement_campaign,engagement,2017-04-13 21:15:19,2017-05-11 21:15:19
+camp_0046,Engage Campaign 46,social,engagement_campaign,engagement,2018-05-21 21:15:19,2018-06-02 21:15:19
+camp_0047,New Shopper Campaign 47,email,acquisition_campaign,acquisition,2017-08-11 21:15:19,2017-09-01 21:15:19
+camp_0048,Checkout Campaign 48,display,conversion_campaign,conversion,2017-04-12 21:15:19,2017-05-07 21:15:19
+camp_0049,Savings Campaign 49,display,promotion_campaign,promotion,2016-09-12 21:15:19,2016-09-26 21:15:19
+camp_0050,Customer Appreciation Campaign 50,search,retention_campaign,retention,2018-06-08 21:15:19,2018-07-02 21:15:19

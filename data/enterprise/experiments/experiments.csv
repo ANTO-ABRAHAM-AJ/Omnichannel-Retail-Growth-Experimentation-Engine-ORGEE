@@ -1,0 +1,4 @@
+experiment_id,experiment_name,objective,start_timestamp,end_timestamp,primary_metric,control_variant,treatment_variant
+exp_001,Recommendation Strategy A/B Test,compare recommendation strategies,2016-12-29 19:29:33,2017-03-17 19:29:33,purchase_conversion_rate,Top Sellers Recommendations,Personalized Content-Based Recommendations
+exp_002,Recommendation Engagement Test,evaluate recommendation engagement,2017-06-02 09:08:33,2017-08-22 09:08:33,purchase_conversion_rate,Standard Recommendation Experience,Personalized Recommendation Experience
+exp_003,Personalization Experience Test,evaluate personalized recommendation experience,2017-11-03 22:47:33,2018-01-08 22:47:33,purchase_conversion_rate,Generic Product Recommendations,Content-Based Personalized Recommendations
