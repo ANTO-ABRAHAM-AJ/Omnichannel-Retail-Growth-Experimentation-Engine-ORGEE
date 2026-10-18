@@ -29,7 +29,7 @@
 TRUNCATE TABLE staging.stg_inventory_observations;
 
 DECLARE @BasePath VARCHAR(500) =
-    'C:\Users\ANTO ABRAHAM AJ\Downloads\Omnichannel Retail & Growth Experimentation Engine (ORGEE)\data\';
+    'C:\path\to\ORGEE\data\';  -- set this to the full path of your local data\ folder
 
 DECLARE @sql NVARCHAR(MAX);
 

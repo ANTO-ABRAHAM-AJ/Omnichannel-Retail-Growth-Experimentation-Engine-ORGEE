@@ -7,9 +7,7 @@ import pandas as pd
 # Omnichannel Retail & Growth Experimentation Engine
 # =============================================================================
 
-PROJECT_DIR = Path(
-    r"C:\Users\ANTO ABRAHAM AJ\Downloads\Omnichannel Retail & Growth Experimentation Engine (ORGEE)"
-)
+PROJECT_DIR = Path(__file__).resolve().parent.parent
 
 PROCESSED_DATA_DIR = PROJECT_DIR / "data" / "processed" / "public"
 OUTPUT_DIR = PROJECT_DIR / "data" / "validation"

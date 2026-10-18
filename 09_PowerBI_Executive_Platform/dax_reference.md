@@ -2,7 +2,7 @@
 ## ORGEE — Omnichannel Retail & Growth Experimentation Engine
 
 **Location:** ORGEE.pbix, `Table` / `_Measures`
-**Companion to:** `data_model_reference.md`. Phase 10's scenario measures are documented separately in `04_phase10_readme.md`.
+**Companion to:** `data_model_reference.md`. Phase 10's scenario measures are documented separately in [Phase 10 README](../10_Decision_Scenarios/README.md).
 
 ---
 

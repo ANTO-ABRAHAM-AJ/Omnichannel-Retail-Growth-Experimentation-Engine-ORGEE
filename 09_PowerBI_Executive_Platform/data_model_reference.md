@@ -112,7 +112,7 @@ The following measures power the 5 Phase 9 dashboard pages. Formulas for each ar
 
 ## Scenario Measures (Phase 10)
 
-Built during this project's Phase 10 work — formulas documented in full in `04_phase10_readme.md`:
+Built during this project's Phase 10 work — formulas documented in full in [Phase 10 README](../10_Decision_Scenarios/README.md):
 
 - Incremental Revenue
 - Retention Revenue Contribution

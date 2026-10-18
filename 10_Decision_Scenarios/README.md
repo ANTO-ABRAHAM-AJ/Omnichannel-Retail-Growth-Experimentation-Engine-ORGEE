@@ -123,7 +123,7 @@ Retention Revenue Contribution = 2,801 × Repeat Purchase Improvement % × AOV
 
 ## 8. Validation
 
-See `03_scenario_validation.md` for the full 6-point validation checklist (baseline reproduction, parameter responsiveness, no-negative-values, arithmetic verification, baseline reconciliation against Phase 6/9, and confirmation that scenario measures do not modify source data). All 6 checks passed.
+See [`scenario_validation.md`](scenario_validation.md) for the full 6-point validation checklist (baseline reproduction, parameter responsiveness, no-negative-values, arithmetic verification, baseline reconciliation against Phase 6/9, and confirmation that scenario measures do not modify source data). All 6 checks passed.
 
 ---
 

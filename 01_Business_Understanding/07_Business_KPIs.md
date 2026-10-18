@@ -15,7 +15,7 @@
 | Delivered Orders | 96,478 | Volume of completed, fulfilled transactions |
 | Active Customers | 93,358 | Customers with at least one delivered order |
 | Average Order Value (AOV) | $137.04 | Revenue per transaction — a lever tested directly in Phase 10 |
-| Purchase Conversion Rate | 9.50% (session-based) | Efficiency of the funnel from visit to purchase — a lever tested directly in Phase 10 |
+| Purchase Conversion Rate | 9.50% in Power BI (9.48% in the Phase 5 session funnel; the small gap comes from the Power BI view's daily product-level grain) | Efficiency of the funnel from visit to purchase — a lever tested directly in Phase 10 |
 | Revenue per Active Customer (North Star) | $141.62 | The single metric this project treats as the clearest proxy for business health |
 | Repeat Purchase Rate | 3.00% | The clearest, most concentrated retention gap identified in this project |
 | Revenue Concentration (Top 10% of customers) | 41.14% of total revenue | Quantifies how dependent the business currently is on a small customer base |
